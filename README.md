@@ -30,6 +30,7 @@
 * [A Step-by-Step Guide to Go Internationalization](https://phrase.com/blog/posts/internationalization-i18n-go/) - *practical strategies for implementing i18n/l10n in go apps*
 * [URL path parameters in routes](https://www.willem.dev/articles/url-path-parameters-in-routes/) - *patterns and trade-offs for handling path parameters in go routing*
 * [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/) - *a nil check is suspicious when it silently handles a state the program claims should be impossible*
+* [Four ways to pay an order in Go](https://viviersoft.com/blog/ddd-go-2-four-ways-to-pay-an-order/) - *talks about a pattern named Functional Event Sourcing Decider*
 
 ## Database
 
