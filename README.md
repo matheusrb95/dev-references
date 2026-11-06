@@ -12,6 +12,7 @@
 - [Repos](#repos)
 - [Game Dev](#game-dev)
 - [Git](#git)
+- [AWS](#aws)
 - [Others](#others)
 
 ## Code Structure
@@ -35,6 +36,7 @@
 ## Database
 
 * [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) - *techniques for scaling postgresql usage*
+* [Multi-tenancy](https://blog.logto.io/implement-multi-tenancy/) - *overview of multi-tenant architecture models (isolated vs shared schema)*
 
 ## Observability
 
@@ -66,8 +68,11 @@
 * [Learn Git](https://learngitbranching.js.org/) - *iterative and visual way of learning git*
 * [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) - *feat, chore, refactor, fix, ...*
 
+## AWS
+
+* [Lambda coldstart benchmark](https://github.com/maxday/lambda-perf/tree/main) - *benchmarks comparing cold start latency across runtimes on aws lambda*
+* [Rotating Secrets with AWS RDS Proxy](https://aws.plainenglish.io/rotating-secrets-with-awss-rds-proxy-9b5f1c4f52e5) - *how to implement automatic AWS Secrets Manager credential rotation with RDS Proxy while maintaining uninterrupted database connectivity.*
+
 ## Others
 
-* [Multi-tenancy](https://blog.logto.io/implement-multi-tenancy/) - *overview of multi-tenant architecture models (isolated vs shared schema)*
-* [Lambda coldstart benchmark](https://github.com/maxday/lambda-perf/tree/main) - *benchmarks comparing cold start latency across runtimes on aws lambda*
 * [You've just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html#3970719462-get-buy-in) - *good tips on how to work with a legacy codebase*
